@@ -8,7 +8,7 @@ ABOUT THIS CODE...
 => It allows dynamic size vectors so user can input independent operation (Not input _ op _).
 => It saves Calculation history in file as real calculator tools.
 
-Limitations..
+Limitations...
 ---------------------------------
 => User have to use -* for multiplication cause command line or terminal doesn't support * default.
 => It only supports BODMAS operations.
